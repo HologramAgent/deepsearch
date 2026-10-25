@@ -1,0 +1,17 @@
+{
+  "author": "HologramAgent",
+  "auto_start": false,
+  "description": "为 agent 提供真正的联网信息检索：本地 SearXNG 聚合多引擎（返回标题/URL/摘要/时间），支持新闻、时间范围、指定引擎；并提供网页正文抽取与「搜索+读前K篇」的深检索",
+  "entry": "plugin.bin",
+  "name": "deepsearch",
+  "name_en": "Deep Search",
+  "name_zh": "联网检索",
+  "tags": [
+    "search",
+    "web",
+    "searxng",
+    "retrieval",
+    "news"
+  ],
+  "version": "1.1.2"
+}
